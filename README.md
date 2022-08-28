@@ -1,2 +1,3 @@
-# Gans-Data-Engineering-Pipeline-in-the-Cloud
-Automated on the Amazon Web Service (AWS) the collection and storage of data on weather and flight arrivals of select cities in Europe in a local database.
+# Data-Engineering-Pipeline-in-the-Cloud
+
+The projects in this repository comprise webscrapping using requests and beautiful soup, data cleaning, API requests using rapidapis. 
